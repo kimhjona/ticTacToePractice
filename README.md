@@ -1,4 +1,5 @@
 # ticTacToePractice
 
-javac Game.java
-java Game
+<code>javac Game.java</code>
+<p></p>
+<code>java Game</code>
